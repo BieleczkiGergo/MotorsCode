@@ -1,7 +1,7 @@
 #! /bin/python3
 
 import pygame
-from control import *
+from movement import *
 
 pygame.init()
 window = pygame.display.set_mode((300, 300))
